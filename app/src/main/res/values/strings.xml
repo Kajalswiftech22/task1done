@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="sample_rest">Sample restaurant</string>
+    <string name="store_pickup">Store pickup</string>
+    <string name="label">Best quality</string>
+    <string name="data">Delivery</string>
+    <string name="always">Always on time</string>
+    <string name="online">Online reservation</string>
+    <string name="table">Table booking</string>
+    <string name="reserve">Reserve a table</string>
+    <string name="my_reserve">My reservations</string>
+    <string name="title">Promotion campaign</string>
+    <string name="discount">Discount all Excelsa 20% in all stores</string>
+    <string name="date">20/04/20 - 06/09/2020</string>
+    <string name="liberca">Discount all Liberica 20% in all stores</string>
+</resources>
